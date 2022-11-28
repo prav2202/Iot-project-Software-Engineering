@@ -47,7 +47,14 @@ Since we are using arduino and proximity sensor, below is the connection of the 
 ![image](https://user-images.githubusercontent.com/116787176/204154138-eab5658d-d5db-4289-80ce-cdceac6d8a99.png)
 
 
-
+Problem Statement
+	1. To determine the number of cars that occupied the parking lots daily.
+	2. To calculate the total hours for the parking lots to be occupied by the car.
+	3. To determine the cost of the parking lot occupancy depends on the total hours.
+	4. To analyze the peak hours for the parking lots' occupancy.
+	5. To determine the most used parking lot spot in that area.
+	6. To determine the highest payment for the paarking lot occupancy.
+	
 
 
 
