@@ -33,7 +33,7 @@ Since we are using arduino and proximity sensor, below is the connection of the 
 
 ![image](https://user-images.githubusercontent.com/116787176/204154138-eab5658d-d5db-4289-80ce-cdceac6d8a99.png)
 
-#Cloud platform
+# Cloud platform
 for the cloud platform our group using pythonanywhere website.
 below is the link of exmaple video on how to port our webapp of Django to the pythonanywhere.
 https://drive.google.com/file/d/1463mHZoolt4EWgSwKD4wkapqGZmLdVN3/view?usp=share_link
