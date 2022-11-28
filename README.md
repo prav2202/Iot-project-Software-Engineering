@@ -6,7 +6,7 @@
 	3. To determine the cost of the parking lot occupancy depends on the total hours.
 	4. To analyze the peak hours for the parking lots' occupancy.
 	5. To determine the most used parking lot spot in that area.
-	6. To determine the highest payment for the paarking lot occupancy.
+	6. To determine the highest payment for the parking lot occupancy.
 
 
 
