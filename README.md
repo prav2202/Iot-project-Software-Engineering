@@ -10,6 +10,8 @@
 
 
 
+# System Architecture
+![System Architecture](https://user-images.githubusercontent.com/117339094/204296850-0b191711-81d1-4c14-9980-3796b95f30fd.png)
 
 
 
