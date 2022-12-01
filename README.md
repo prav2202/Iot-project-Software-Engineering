@@ -19,8 +19,8 @@
 The device we are using for this project is Arduino Uno. 
 The sensor we are using for this project is Infrared proximmity sensor.
 
+![esp32-devkitc](https://user-images.githubusercontent.com/117339094/204980975-de7d794b-895d-4a20-8bef-a56847facfa1.jpg)
 
-![image](https://user-images.githubusercontent.com/116787176/204153725-710ceee2-9832-455d-a9f7-1885dfe66ed4.png)
 ![image](https://user-images.githubusercontent.com/116787176/204225630-ce5cb295-0ca2-4510-b205-b2f499ab8000.png)
 
 
