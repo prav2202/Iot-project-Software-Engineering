@@ -1,6 +1,9 @@
 # Iot-project-Software-Engineering
 
 # Problem Statement
+The conventional parking system does not detect the number of cars inside the parking sapce and the number of parking space still available. With implementation of sensors and IoT, we can get real time data of the cars coming in and out of the parking space. We can also improve the system by getting the data on the peak hours and the average duration of the cars inside the parking lot to automatically calculate the parking fees.
+
+# Design Statement
 	1. To determine the number of cars that occupied the parking lots daily.
 	2. To calculate the total hours for the parking lots to be occupied by the car.
 	3. To determine the cost of the parking lot occupancy depending on the total hours.
