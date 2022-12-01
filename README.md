@@ -3,7 +3,7 @@
 # Problem Statement
 	1. To determine the number of cars that occupied the parking lots daily.
 	2. To calculate the total hours for the parking lots to be occupied by the car.
-	3. To determine the cost of the parking lot occupancy depends on the total hours.
+	3. To determine the cost of the parking lot occupancy depending on the total hours.
 	4. To analyze the peak hours for the parking lots' occupancy.
 	5. To determine the most used parking lot spot in that area.
 	6. To determine the highest payment for the parking lot occupancy.
