@@ -19,16 +19,11 @@
 The device we are using for this project is Arduino Uno. 
 The sensor we are using for this project is Infrared proximmity sensor.
 
-![esp32-devkitc](https://user-images.githubusercontent.com/117339094/204980975-de7d794b-895d-4a20-8bef-a56847facfa1.jpg)
-
-![image](https://user-images.githubusercontent.com/116787176/204225630-ce5cb295-0ca2-4510-b205-b2f499ab8000.png)
+<img src= "https://user-images.githubusercontent.com/117339094/204980975-de7d794b-895d-4a20-8bef-a56847facfa1.jpg" width="400" /> <img src= "https://user-images.githubusercontent.com/116787176/204225630-ce5cb295-0ca2-4510-b205-b2f499ab8000.png" width="300" />
 
 
 The data transmission protocol we are using is *HTTPS* method.
 
-Since we are using arduino and proximity sensor, below is the connection of the components simulated in tinkercad.
-
-![image](https://user-images.githubusercontent.com/116787176/204297892-dcc62592-4acc-4bc6-a053-2ca73407974d.png)
 
 
 ![image](https://user-images.githubusercontent.com/116787176/204154138-eab5658d-d5db-4289-80ce-cdceac6d8a99.png)
