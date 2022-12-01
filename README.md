@@ -38,6 +38,9 @@ for the cloud platform our group using pythonanywhere website.
 below is the link of exmaple video on how to port our webapp of Django to the pythonanywhere.
 https://drive.google.com/file/d/1463mHZoolt4EWgSwKD4wkapqGZmLdVN3/view?usp=share_link
 
+# Dashboard
+![software P1](https://user-images.githubusercontent.com/117339094/204979123-7a427b71-1e67-467b-96fe-9f961497fcc3.png)
+
 
 
 	
