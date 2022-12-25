@@ -2,16 +2,12 @@
 # Real-time Parking Monitoring System
 
 # Problem Statement
-The conventional parking system does not detect the number of cars inside the parking sapce and the number of parking space still available. With implementation of sensors and IoT, we can get real time data of the cars coming in and out of the parking space. We can also improve the system by getting the data on the peak hours and the average duration of the cars inside the parking lot to automatically calculate the parking fees.
+The conventional garden does not have a monitoring system to monitor the temperature, humidity and soil moisture of the garden. With implementation of sensors and IoT, we can get real time data of the temperature, humidity and soil moisture in the garden. 
 
 # Design Statement
-	1. To determine the number of cars that occupied the parking lots daily.
-	2. To calculate the total hours for the parking lots to be occupied by the car.
-	3. To determine the cost of the parking lot occupancy depending on the total hours.
-	4. To analyze the peak hours for the parking lots' occupancy.
-	5. To determine the most used parking lot spot in that area.
-	6. To determine the highest payment for the parking lot occupancy.
-
+	1. To determine the temperature of the surroundings in the garden.
+	2. To determine the humidity of the garden.
+	3. To determine the soil moisture value of the soil in the garden.
 
 
 # System Architecture
