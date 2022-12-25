@@ -11,13 +11,14 @@ The conventional garden does not have a monitoring system to monitor the tempera
 
 
 # System Architecture
-![System Architecture](https://user-images.githubusercontent.com/117339094/204296850-0b191711-81d1-4c14-9980-3796b95f30fd.png)
+![System Architecture-01](https://user-images.githubusercontent.com/117339094/209456203-f0957854-d7cf-4bfb-a63e-3a60616972a2.png)
 
 
 
 # Sensor
 The device we are using for this project is Esp32. 
 The sensor we are using for this project is DHT22 sensor.
+The sensor we are using for this project is soil moisture sensor
 
 ![image](https://user-images.githubusercontent.com/116787176/209455921-58ffacfa-d2da-48a0-9d04-6feccb0fc1f6.png)
 ![image](https://user-images.githubusercontent.com/116787176/209455926-69c73bcd-6f0f-4798-94a9-e7143b34c700.png)
