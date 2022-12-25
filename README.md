@@ -26,9 +26,8 @@ The sensor we are using for this project is DHT22 sensor.
 
 The data transmission protocol we are using is *HTTPS* method.
 
+![image](https://user-images.githubusercontent.com/116787176/209455936-1328bad4-dc77-42b5-97e5-b9f3059f2ccb.png)
 
-
-![image](https://user-images.githubusercontent.com/116787176/204154138-eab5658d-d5db-4289-80ce-cdceac6d8a99.png)
 
 # Cloud platform
 for the cloud platform our group using pythonanywhere website.
