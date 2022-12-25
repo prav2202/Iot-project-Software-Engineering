@@ -1,5 +1,5 @@
 # Iot-project-Software-Engineering
-# Real-time Parking Monitoring System
+# Soil Temperature and Humidity Monitoring System
 
 # Problem Statement
 The conventional garden does not have a monitoring system to monitor the temperature, humidity and soil moisture of the garden. With implementation of sensors and IoT, we can get real time data of the temperature, humidity and soil moisture in the garden. 
