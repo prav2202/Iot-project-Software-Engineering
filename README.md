@@ -20,8 +20,7 @@ The device we are using for this project is Esp32.
 The sensor we are using for this project is DHT22 sensor.
 The sensor we are using for this project is soil moisture sensor
 
-![image](https://user-images.githubusercontent.com/116787176/209455921-58ffacfa-d2da-48a0-9d04-6feccb0fc1f6.png)
-![image](https://user-images.githubusercontent.com/116787176/209455926-69c73bcd-6f0f-4798-94a9-e7143b34c700.png)
+<image src= "https://user-images.githubusercontent.com/116787176/209455921-58ffacfa-d2da-48a0-9d04-6feccb0fc1f6.png" width = "500" /> <image src= "https://user-images.githubusercontent.com/116787176/209455926-69c73bcd-6f0f-4798-94a9-e7143b34c700.png" width = "500" />
 
 
 
