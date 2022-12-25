@@ -16,10 +16,12 @@ The conventional garden does not have a monitoring system to monitor the tempera
 
 
 # Sensor
-The device we are using for this project is Arduino Uno. 
-The sensor we are using for this project is Infrared proximmity sensor.
+The device we are using for this project is Esp32. 
+The sensor we are using for this project is DHT22 sensor.
 
-<img src= "https://user-images.githubusercontent.com/117339094/204980975-de7d794b-895d-4a20-8bef-a56847facfa1.jpg" width="400" /> <img src= "https://user-images.githubusercontent.com/116787176/204225630-ce5cb295-0ca2-4510-b205-b2f499ab8000.png" width="300" />
+![image](https://user-images.githubusercontent.com/116787176/209455921-58ffacfa-d2da-48a0-9d04-6feccb0fc1f6.png)
+![image](https://user-images.githubusercontent.com/116787176/209455926-69c73bcd-6f0f-4798-94a9-e7143b34c700.png)
+
 
 
 The data transmission protocol we are using is *HTTPS* method.
