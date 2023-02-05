@@ -28,6 +28,10 @@ The data transmission protocol we are using is *HTTPS* method.
 
 ![image](https://user-images.githubusercontent.com/116787176/209455936-1328bad4-dc77-42b5-97e5-b9f3059f2ccb.png)
 
+# Database
+We are using MySQL to create the relational database relationships. The tables we created are sensor, reading, technician and TechBackground. The relationships between the tables via primary key and foreign key can is shown below.
+
+![software P5](https://user-images.githubusercontent.com/117338680/216806613-d0f3d05c-2308-42e5-9da6-9abe8f211f05.png)
 
 # Cloud platform
 for the cloud platform our group using pythonanywhere website.
